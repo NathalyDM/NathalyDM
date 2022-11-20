@@ -1,4 +1,4 @@
-<p align="center"><img src="animation.gif" width="35%"></p>
+<p align="center"><img src="animation.gif" width="100%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 
