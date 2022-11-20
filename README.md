@@ -1,4 +1,7 @@
 
+# Hi there! 👋
+
+<img src=img/top_banner.png>
 
 Welcome to my GitHub profile!
 I am Nathaly, <b>Bioengineering and Biotechnology Student</b>, currently based in Paris, France, working as computational biologist at Institut Pasteur.
