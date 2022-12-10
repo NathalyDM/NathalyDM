@@ -1,5 +1,6 @@
 
 # Hi there! 👋
+No matter what, as long as you have a goal, you are unstoppable 
 
 <img src=img/top_banner.png>
 
