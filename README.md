@@ -1,6 +1,6 @@
 
 # Welcome! 👋
-In 5 years I am gonna store my mind in the cloud
+Sometimes, science is more art than science Morty. 
 
 <h2>☕ Let's Connect: </h2>
 <p align="center">
