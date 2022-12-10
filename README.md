@@ -1,6 +1,6 @@
 
 # Welcome! 👋
-No matter what, as long as you have a goal, you are unstoppable 
+In 5 years I am gonna store my mind in the cloud
 
 <h2>☕ Let's Connect: </h2>
 <p align="center">
