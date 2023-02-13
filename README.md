@@ -11,11 +11,6 @@ Sometimes, science is more art than science Morty.
 </p>
 
 <img src=Portfolio/Portfolio-1.jpg>
-<img src=Portfolio/Portfolio-2.jpg>
-<img src=Portfolio/Portfolio-3.jpg>
-<img src=Portfolio/Portfolio-4.jpg>
-<img src=Portfolio/Portfolio-5.jpg>
-<img src=Portfolio/Portfolio-6.jpg>
 
 
 
